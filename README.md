@@ -8,4 +8,4 @@ Computer Science student at UMass Amherst (Class of 2029), focused on backend an
 
 **Core stack:** TypeScript · Python · Node.js/Fastify · PostgreSQL · React · Django
 
-**Contact:** [LinkedIn](https://linkedin.com/in/YOUR-HANDLE) · [Portfolio](https://your-site.dev) · [Resume](https://your-site.dev/resume.pdf)
+**Contact:** [LinkedIn](https://www.linkedin.com/in/andrew-g-choi/)
