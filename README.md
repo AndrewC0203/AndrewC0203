@@ -1,6 +1,6 @@
 # Andrew Choi
 
-Computer Science student at UMass Amherst (Class of 2029), focused on backend and systems engineering.
+Computer Science student at UMass Amherst (Class of 2028), focused on backend and systems engineering.
 
 **Currently building:** an internship aggregator that pulls postings through ATS APIs (Greenhouse, Lever, Ashby) and ranks them by fit using embeddings.
 
